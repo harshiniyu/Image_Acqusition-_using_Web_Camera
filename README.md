@@ -27,7 +27,7 @@ Use cv2.imread to read the video or image.
 <br>End the program and close the output video window by pressing 'q'.
 
 ## Program:
-``` Python
+
 ### Developed By:Harshini Y
 ### Register No:212223240050
 
@@ -107,11 +107,6 @@ image_dict = {'captured_image2': image}
 cv2.imwrite('captured_image2.jpg', image)
 cap.release()
 cv2.destroyAllWindows()
-
-
-
-
-
 ```
 ## Output
 
